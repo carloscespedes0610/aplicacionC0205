@@ -10,6 +10,10 @@ namespace aplicacionC0205
     {
         static void Main(string[] args)
         {
+            // escribe en pantalla
+            Console.WriteLine("Hola Mundo");
+            // nos da tiempo para ver el mensaje
+            Console.Read();
         }
     }
 }
